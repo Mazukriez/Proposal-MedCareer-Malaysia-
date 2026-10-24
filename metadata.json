@@ -1,0 +1,6 @@
+{
+  "name": "MedCareer Malaysia",
+  "description": "An AI-powered national medical workforce security, retention, workload management, and career development platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
